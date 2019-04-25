@@ -1,2 +1,7 @@
+.idea
+CNAME
 _site
+temp
+.vscode
+update.sh
 .sass-cache
