@@ -1,6 +1,6 @@
 #!/bin/sh
 
-jekyll build
+bundle exec jekyll build
 
 git co gh-pages
 
