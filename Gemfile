@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+gemspec
 
-gem "jekyll", "~> 3.8.5"
-gem "jekyll-theme-cayman"
+gem 'jekyll'
+gem 'jekyll-paginate'
+gem 'kramdown'
+gem 'pygments.rb'
