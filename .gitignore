@@ -5,3 +5,4 @@ temp
 .vscode
 update.sh
 .sass-cache
+jekyll-cayman-theme.gemspec
