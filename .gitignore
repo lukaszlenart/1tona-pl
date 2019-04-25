@@ -6,3 +6,6 @@ temp
 update.sh
 .sass-cache
 jekyll-cayman-theme.gemspec
+README.md
+Gemfile
+Gemfile.lock
