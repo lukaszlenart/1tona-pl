@@ -1,13 +1,13 @@
 # Setup
-title:        "1tona"
-tagline:      "Okazjonalny transport do 1 tony oraz transport rowerów i motocykli"
-baseurl:      ""
-locale:       "pl"
+title: "1tona"
+tagline: "Okazjonalny transport do 1 tony oraz transport rowerów i motocykli"
+baseurl: ""
+locale: "pl"
 
 # About/contact
 author:
-  name:       "Łukasz Lanart"
-  url:        "https://lenart.org.pl"
+  name: "Łukasz Lenart"
+  url: "https://lenart.org.pl"
 
 #Others
 markdown: kramdown

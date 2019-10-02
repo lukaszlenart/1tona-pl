@@ -12,7 +12,7 @@ Mam przygotowaną specjalną ramę i uchwyty do przewozu 4 rowerów plus wszystk
 
 # Motocykl
 
-Dysponuje dwoma rampami najazdowymi i pasami transportowymi dzięki czemu mogę bezpiecznie przewieź Twój motocykl. Dzwoń lub pisz jeśli szukasz transportu dla swojego motocykla.
+Dysponuje dwoma rampami najazdowymi i pasami transportowymi, dzięki czemu mogę bezpiecznie przewieźć Twój motocykl. Dzwoń lub pisz jeśli szukasz transportu dla swojego jednośladu.
 
 # Kontakt
 
