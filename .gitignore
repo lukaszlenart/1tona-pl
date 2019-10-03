@@ -1,6 +1,7 @@
 .idea
 CNAME
 _site
+_layouts
 temp
 .vscode
 update.sh
@@ -9,3 +10,4 @@ jekyll-cayman-theme.gemspec
 README.md
 Gemfile
 Gemfile.lock
+.DS_Store
